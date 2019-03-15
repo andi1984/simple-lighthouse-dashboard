@@ -1,0 +1,35 @@
+{
+  "name": "apexchart-demo",
+  "version": "1.0.0",
+  "description": "Demo of Apexcharts",
+  "main": "index.js",
+  "scripts": {
+    "watch": "webpack-dev-server",
+    "build": "webpack --mode=production -c webpack.config.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andi1984/apexchart-demo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andi1984/apexchart-demo/issues"
+  },
+  "homepage": "https://github.com/andi1984/apexchart-demo#readme",
+  "dependencies": {
+    "apexcharts": "^3.6.2"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.3.4",
+    "@babel/preset-env": "^7.3.4",
+    "acorn": "^6.1.1",
+    "babel-loader": "^8.0.5",
+    "prettier": "^1.16.4",
+    "raw-loader": "^1.0.0",
+    "webpack": "^4.29.6",
+    "webpack-cli": "^3.3.0",
+    "webpack-dev-server": "^3.2.1"
+  }
+}
