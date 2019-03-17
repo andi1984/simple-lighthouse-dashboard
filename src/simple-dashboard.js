@@ -78,7 +78,7 @@ class SimpleDashboard extends React.Component {
             <Form.Group inline>
               <label htmlFor="url">Enter a page</label>
               <Input
-                placeholder="Enter URL here"
+                placeholder="Enter website url here"
                 type="url"
                 name="url"
                 required
