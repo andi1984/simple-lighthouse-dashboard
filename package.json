@@ -7,6 +7,7 @@
     "watch": "webpack-dev-server",
     "dev": "webpack --mode=development -c webpack.config.js",
     "build": "webpack --mode=production -c webpack.config.js",
+    "now-build": "npm run build",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
