@@ -62,3 +62,5 @@ typings/
 
 dist/*
 !dist/index.html
+
+now-secrets.json
