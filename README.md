@@ -1,2 +1,2 @@
-# apexchart-demo
-Demo of Apexcharts
+# Simple Lighthouse Dashboard
+This is a simple dashboard for lighthouse.

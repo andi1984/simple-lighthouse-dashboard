@@ -1,0 +1,6 @@
+{
+  "name": "simple-lighthouse-dashboard",
+  "env": {
+    "KEY": "@google-console-key"
+  }
+}
