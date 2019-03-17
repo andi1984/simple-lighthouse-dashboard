@@ -2,5 +2,11 @@
   "name": "simple-lighthouse-dashboard",
   "env": {
     "KEY": "@google-console-key"
-  }
+  },
+  "builds": [
+    {
+      "src": "package.json",
+      "use": "@now/static-build"
+    }
+  ]
 }
