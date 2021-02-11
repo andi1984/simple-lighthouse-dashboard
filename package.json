@@ -21,7 +21,7 @@
   },
   "homepage": "https://github.com/andi1984/apexchart-demo#readme",
   "dependencies": {
-    "apexcharts": "^3.6.2",
+    "apexcharts": "^3.24.0",
     "mout": "^1.1.0",
     "react": "^16.8.4",
     "react-apexcharts": "^1.3.0",
